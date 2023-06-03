@@ -1,8 +1,15 @@
 # Aircraft Risk Analysis
 Authors: Lillian Lakes, Madeleine Smithers, and Rajesh Reddy
-## Overview
+
 ### Repository Contents
-- 
+
+    .
+    ├── data                    # Original CSVs and cleaned master data CSV
+    ├── working notebooks       # ipynb files from all team members
+    ├── .gitignore              # files to ignore
+    ├── Airline Risk Analysis   # PDF version of presentation slides
+    ├── Final Notebook          # Final narrative notebook of data analysis 
+    └── README.md
 
 ## Business Understanding
 Our stakeholders are exploring the airplane industry, both commercial and private, and want to assess the risk before making any decisions. 
