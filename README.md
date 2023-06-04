@@ -11,7 +11,7 @@ Authors: Lillian Lakes, Madeleine Smithers, and Rajesh Reddy
     ├── Final Notebook          # Final narrative notebook of data analysis 
     └── README.md
 
-To explore our findings further, please visit our [Tableau Dashboard](https://public.tableau.com/app/profile/rajesh.reddy5034/viz/ProjectPhase1Dashboard/Dashboard1#1) and our [Project Presentation](https://docs.google.com/presentation/d/1AkNtNh1cPJnr5ddkoAes-2Pz2WXlAYeAHy00Agh9kxg/edit#slide=id.g24d4fbc3b08_0_2278). 
+To explore our findings further, please visit our [Tableau Dashboard](https://public.tableau.com/app/profile/rajesh.reddy5034/viz/ProjectPhase1Dashboard/Dashboard1#1), our [Live Project Presentation](https://youtu.be/TvrjEL8AaEg) and our [Project Deck](https://docs.google.com/presentation/d/1AkNtNh1cPJnr5ddkoAes-2Pz2WXlAYeAHy00Agh9kxg/edit#slide=id.g24d4fbc3b08_0_2278). 
 
 ## Business Understanding
 Our stakeholders are exploring the airplane industry, both commercial and private, and want to assess the risk before making any decisions. 
