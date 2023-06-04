@@ -11,6 +11,8 @@ Authors: Lillian Lakes, Madeleine Smithers, and Rajesh Reddy
     ├── Final Notebook          # Final narrative notebook of data analysis 
     └── README.md
 
+To explore our findings further, please visit our [Tableau Dashboard](https://public.tableau.com/app/profile/rajesh.reddy5034/viz/ProjectPhase1Dashboard/Dashboard1#1) and our [Project Presentation](https://docs.google.com/presentation/d/1AkNtNh1cPJnr5ddkoAes-2Pz2WXlAYeAHy00Agh9kxg/edit#slide=id.g24d4fbc3b08_0_2278). 
+
 ## Business Understanding
 Our stakeholders are exploring the airplane industry, both commercial and private, and want to assess the risk before making any decisions. 
 The Federal Aviation Administration defines risk as "the probability and possible severity of accident or loss from exposure to various hazards, including injury to people and loss of resources." We explored the data through this lens and with the goal of answering three main questions: 
