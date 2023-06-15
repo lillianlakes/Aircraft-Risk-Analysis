@@ -1,16 +1,6 @@
 # Aircraft Risk Analysis
 Authors: Lillian Lakes, Madeleine Smithers, and Rajesh Reddy
 
-### Repository Contents
-
-    .
-    ├── data                    # Original CSVs and cleaned master data CSV
-    ├── working notebooks       # ipynb files from all team members
-    ├── .gitignore              # files to ignore
-    ├── Airline Risk Analysis   # PDF version of presentation slides
-    ├── Final Notebook          # Final narrative notebook of data analysis 
-    └── README.md
-
 To explore our findings further, please visit our [Tableau Dashboard](https://public.tableau.com/app/profile/rajesh.reddy5034/viz/ProjectPhase1Dashboard/Dashboard1#1), our [Live Project Presentation](https://youtu.be/TvrjEL8AaEg) and our [Project Deck](https://docs.google.com/presentation/d/1AkNtNh1cPJnr5ddkoAes-2Pz2WXlAYeAHy00Agh9kxg/edit#slide=id.g24d4fbc3b08_0_2278). 
 
 ## Business Understanding
@@ -58,4 +48,14 @@ We arrived at three main recommendations for our clients based on a combination 
 
  1. On average, accidents involving commercial airplanes result in lower fatality rates than those involving private airplanes. Because of this, we reccomend our stakeholders to venture either soley or predominantly into the commercial aviation sector in order to minimize risk. 
  2. Of the top commercial airline manufacturers, Boeing has consistently showed the lowest fatality rates and is the manufacturer we would recommend. Of the models currently in production, the Boeing 737 and the Boeing 777 have the lowest average fatality rates and would be most effective in minimizing accident severity. 
- 3. Of the top private airline manufacturers, Cessna shows the lowest average fatality rate and is therefore the manufacturer we would recommend to our client for the private sector. Of models currently in production, the 172 and 182 have the lowest fatality rates. As an alternative, we would also recommend the Cirrus SR20 or SR22 as they have also shown significantly lower fatality rates over our years charted. 
+ 3. Of the top private airline manufacturers, Cessna shows the lowest average fatality rate and is therefore the manufacturer we would recommend to our client for the private sector. Of models currently in production, the 172 and 182 have the lowest fatality rates. As an alternative, we would also recommend the Cirrus SR20 or SR22 as they have also shown significantly lower fatality rates over our years charted.
+
+## Repository Contents
+
+    .
+    ├── data                    # Original CSVs and cleaned master data CSV
+    ├── working notebooks       # ipynb files from all team members
+    ├── .gitignore              # files to ignore
+    ├── Airline Risk Analysis   # PDF version of presentation slides
+    ├── Final Notebook          # Final narrative notebook of data analysis 
+    └── README.md
